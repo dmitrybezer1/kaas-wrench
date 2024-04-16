@@ -1,0 +1,1 @@
+Use `ldd --version` to find glibc version.
